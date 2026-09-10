@@ -6,4 +6,5 @@ pandas-gbq
 db-dtypes
 pyarrow
 numpy
+imbalanced-learn
 joblib
