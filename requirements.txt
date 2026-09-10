@@ -1,0 +1,9 @@
+functions-framework==3.*
+google-cloud-bigquery
+kagglehub
+pandas
+pandas-gbq
+db-dtypes
+pyarrow
+numpy
+joblib
