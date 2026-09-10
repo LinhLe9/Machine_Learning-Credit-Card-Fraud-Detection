@@ -1,0 +1,7 @@
+bigquery_credentials.json
+venv/, env/
+__pycache__/
+*.pyc, *.pyo, *.pyd
+Thumbs.db 
+.vscode/ 
+.idea/

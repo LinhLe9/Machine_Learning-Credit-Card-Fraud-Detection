@@ -1,0 +1,35 @@
+{
+    "LeaveOneOutEncoder": [
+        "merchant"
+    ],
+    "cat": [
+        "category"
+    ],
+    "num_log_robust": [
+        "amt",
+        "total_amt_24h",
+        "amt_vs_historical_ratio",
+        "avg_amt_7d",
+        "ratio_vs_30d",
+        "ratio_vs_7d",
+        "avg_amt_30d",
+        "amt_perc_of_24h",
+        "time_diff_sec",
+        "speed"
+    ],
+    "num_robust": [
+        "trans_count_24h"
+    ],
+    "num_std": [
+        "lat",
+        "long",
+        "merch_lat",
+        "merch_long"
+    ],
+    "hour_sin": [
+        "hour"
+    ],
+    "hour_cos": [
+        "hour"
+    ]
+}
